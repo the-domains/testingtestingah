@@ -1,7 +1,7 @@
 name: TestingTestingAH
 favicon: null
-layout_spectrum: 0.973623557947576
-typography_spectrum: 0.0574049677234143
+layout_spectrum: 0.94425
+typography_spectrum: 0.17023
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.3125
-  lightness: 0.9156850012950599
+  lightness: 0.75
   saturation: 0.27705074776895344
-  rhythmicContrast: 0.5811808703001589
+  rhythmicContrast: 0.75
 purpose: []
