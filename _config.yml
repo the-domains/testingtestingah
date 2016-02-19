@@ -2,6 +2,7 @@ name: TestingTestingAH
 favicon: null
 layout_spectrum: 0.94425
 typography_spectrum: 0.17023
+title: Test of the Grid Blog
 cta:
   domain: null
   bucket: null
